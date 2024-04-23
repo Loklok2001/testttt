@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": “GC4Z27R6DB.CardSys.PointzMatter",
+        "paths": [
+          "*"
+        ]
+      }
+    ]
+  }
+}
